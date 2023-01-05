@@ -17,7 +17,7 @@ class Solution
         string ss = "provides me a space to practice and build my skills";
 
         // Read and save an integer, double, and String to your variables.
-        Console.ReadLine();
+        Console.ReadLine(i);
         // Print the sum of both integer variables on a new line.
         Console.WriteLine(i + ii);
 
